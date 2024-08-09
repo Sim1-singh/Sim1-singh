@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone Singh</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-- 🔭 I’m currently working on **EvaluAItor**
+- 🔭 I’m currently building **EvaluAItor**
 
 - 🌱 I’m currently learning **GenAI**
 
